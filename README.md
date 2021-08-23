@@ -1,4 +1,4 @@
-# CSharp_Laço de Repetição For
+# CSharp_Laço de Repetição For - Imprimindo uma matriz triangular com For
 
 Olá, seja muito bem vinda(o)!
 
