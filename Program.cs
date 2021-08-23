@@ -10,7 +10,7 @@ namespace Exercicio_LacoDeRepeticaoFor3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando Projeto - Imprimindo uma matriz triangular com break: \r\n");
+            Console.WriteLine("Executando Projeto - Imprimindo uma matriz triangular com For: \r\n");
             Console.WriteLine("____________________________________________________________________ \r\n");
 
             for (int linha = 0; linha < 10; linha++)
